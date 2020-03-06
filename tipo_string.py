@@ -51,3 +51,11 @@ print(nome.split()[1])
 print(nome[::-1])  # Inversão da String pythônico
 
 print(nome.replace('e', 'P'))
+
+texto = 'socorram me subino onibus em marrocos' # Palíndromo
+print(texto)
+print(texto[::-1])
+
+nome = 'ana' # Palíndromo
+print(nome)
+print(nome[::-1])
